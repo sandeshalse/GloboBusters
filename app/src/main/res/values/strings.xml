@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VayugolaBusters</string>
+    <string name="level_label">Level</string>
+    <string name="score_label">Score</string>
+    <string name="max_points">99</string>
+    <string name="game_app">Start Game</string>
+    <string name="popping_needle">Popping needle</string>
+</resources>
